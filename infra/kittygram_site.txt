@@ -1,5 +1,5 @@
 IP: 158.160.202.111;
-name_taski: https://<ТВОЙ-АДРЕС-TASKI>;
-name_kittygram: https://artyushin-kittygram.ddns.net;
+name_taski: https://kkellben.hopto.org;
+name_kittygram: https://kkellben-kittygram.duckdns.org;
 login: admin;
 password: 123;
